@@ -1,1 +1,5 @@
-Replace this with your name, and include a header.
+# Welcome to my rumbllings about anything and everythin
+
+## My name is jakanees Ombudsman
+
+### Adding headers for my portfolio with some spices.
